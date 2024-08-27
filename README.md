@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there 👋   
+# Also view me at [VedantDeshmukh2](https://github.com/VedantDeshmukh2?tab=repositories)
 
 ![Banner](https://github.com/VedantDeshmukh1/VedantDeshmukh1/blob/main/images/Intro1.gif)
 
