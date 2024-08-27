@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Banner](https://via.placeholder.com/1200x300.png?text=Welcome+to+My+GitHub+Profile)
+![Banner](https://github.com/VedantDeshmukh1/VedantDeshmukh1/blob/main/images/Intro1.gif)
 
 <!-- You can replace the placeholder image link with your custom banner -->
 
